@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "832862411431",
+    "firebase_url": "https://dahlia1202150260sc006.firebaseio.com",
+    "project_id": "dahlia1202150260sc006",
+    "storage_bucket": "dahlia1202150260sc006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832862411431:android:80b49b28810b95df",
+        "android_client_info": {
+          "package_name": "com.example.a3d.dahlia_1202150260_sc006"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832862411431-bokiuqm28k2fqdihjrd5gu2u2g1d15tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a3d.dahlia_1202150260_sc006",
+            "certificate_hash": "a760ca7832ac1b3e5db493dab0118ed85a50603f"
+          }
+        },
+        {
+          "client_id": "832862411431-s95iiulp6o8eddiuoig4cu3v55n83s21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzOGp6VBT-5E-RFLyDsPxoWi5ioBNXIEI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832862411431-s95iiulp6o8eddiuoig4cu3v55n83s21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
